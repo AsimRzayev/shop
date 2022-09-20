@@ -1,0 +1,15 @@
+[{
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg",
+    "name":"Samsung",
+    "desc":"Lorem ipsum dolar set amet"
+},{
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg",
+    "name":"Xiomi",
+    "desc":"Lorem ipsum dolar set amet"
+},{
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "name":"Apple",
+    "desc":"Lorem ipsum dolar set amet"
+}]
+
+
